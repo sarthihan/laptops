@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AR Laptop Guide",
+    "description": "",
+    "home_page_url": "https://sarthihan.github.io/laptops",
+    "feed_url": "https://sarthihan.github.io/laptops/feed.json",
+    "user_comment": "",
+    "icon": "https://sarthihan.github.io/laptops/media/website/547d2400-5383-48d4-a81c-84a9a70dee41.jpeg",
+    "author": {
+        "name": "arpro89"
+    },
+    "items": [
+    ]
+}
